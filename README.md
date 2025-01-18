@@ -45,7 +45,7 @@ I specialize in building solutions that work seamlessly, leveraging frameworks l
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YannBoyongo&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YannBoyongo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannBoyongo&layout=compact&theme=radical)
 
 ---
